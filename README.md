@@ -4,9 +4,8 @@ React Lab is a web application built with React and Vite. It utilizes Material U
 
 ## Changes compared to the master/frameworks/react-lab application 
 - add API_ORGANIZATION environment variable
-- use hashRoute 
-- vite base config change to './'
-- Manual deploy in githubpages
+- docker config
+- Render deploy 
 
 ## Features
 - Built with **React** and **Vite** for fast development and performance.
